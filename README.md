@@ -2,6 +2,16 @@
 
 Pokemon Go scraper capable of scanning large area for Pokemon spawns over long period of time. Suitable for gathering data for further analysis.
 
+# Discontinued (2016.10.01)
+
+As of October 2016, this project is officially discontinued. Sadly, I fell out of loop around the end of August, and that combined with decreasing urge to play the game. I don't feel any incentive to develop pokeminer further.
+
+All code, branches, pull requests, issues etc. are not going to be removed in the nearest future. If you want to take part in development of Pokemon Go tools, or look for a tool that suits your needs, I think the best place for those is [/r/pokemongodev](https://reddit.com/r/pokemongodev).
+
+To everyone that supported pokeminer in some way during 2 months of its lifetime: thank you! You were the very best like no one ever was.
+
+But if you ever wondered why pokeminer came to life, despite there being other maps...
+
 ## Oh great, another map?
 
 This is not *a map*. Yeah, map is included, but main goal of this app is to *gather data* and put it in the database for further analysis. There are several other projects (including aforementioned PokemonGo-Map) that do better job at being just a map.
